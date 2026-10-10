@@ -27,7 +27,7 @@ When I'm not coding, I'm probably on a tennis court. That sport has taught me mo
 - **AI & Automation:** OpenAI, LangChain, RAG pipelines, AI agents, workflow automation
 - **Cloud & DevOps:** AWS, GCP, Docker, CI/CD, production deployment, scalable infrastructure
 
-When I'm not coding, I'm probably on a tennis court. That sport has taught me more about discipline and adaptability than almost anything else, and I bring that same drive, competitive but always a team player, into my engineering work.
+When I'm not coding, I'm probably on a basketball court. That sport has taught me more about discipline and adaptability than almost anything else, and I bring that same drive, competitive but always a team player, into my engineering work.
 
 ## 🚀 Featured Projects
 
