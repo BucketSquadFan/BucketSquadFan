@@ -20,10 +20,10 @@ When I'm not coding, I'm probably on a tennis court. That sport has taught me mo
 
 ## 🧰 Tech Stack
 
-- **Backend:** Python, FastAPI, RoR, .NET, Golang, Rust, Node.js, REST APIs, scalable backend systems
+- **Backend:** Python, FastAPI, RoR, .NET, Golang, Node.js, REST APIs, scalable backend systems
 - **Frontend:** React, Next.js, Vue.js, responsive product interfaces, modern SaaS UI
 - **Database:** PostgreSQL, Supabase, relational data modeling, API-driven systems
-- **Graph & Retrieval:** Neo4j, Cypher, knowledge graphs, ontology-driven modeling
+- **Graph & Retrieval:** Neo4j, knowledge graphs, ontology-driven modeling
 - **AI & Automation:** OpenAI, LangChain, RAG pipelines, AI agents, workflow automation
 - **Cloud & DevOps:** AWS, GCP, Docker, CI/CD, production deployment, scalable infrastructure
 
